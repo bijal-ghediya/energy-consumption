@@ -1,4 +1,4 @@
-## 1. Project Title and Aim
+## Project Title and Aim
 
 **Title:**  
 
