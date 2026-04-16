@@ -1,7 +1,13 @@
 pandas
 numpy
 matplotlib
-keras
 seaborn
-tensorflow
 scikit-learn
+tensorflow
+keras
+keras-tcn
+xgboost
+statsmodels
+shap
+streamlit
+
